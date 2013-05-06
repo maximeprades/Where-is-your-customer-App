@@ -1,0 +1,11 @@
+{
+  "name": "Where is your customer App ?",
+  "author": {
+    "name": "Maxime",
+    "email": "mprades@zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": "ticket_sidebar",
+  "frameworkVersion": "0.5"
+}
